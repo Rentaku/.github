@@ -9,7 +9,7 @@ In this repository, we have developed the Rentaku project, aimed at providing an
 Name | Bangkit ID | Learning Path |
 :---|:---:|---:
 Maulana Rifan Haditama | M125DKX4550 | Machine Learning 
-Muhammad Fikry | M125DKX4566 | Machine Learning
+Muhammad Fikry Rizal | M125DKX4566 | Machine Learning
 Naufal Rozan | C066DSX2244 | Cloud Computing
 Azka Septia Rahman | C125DKX4591 | Cloud Computing
 Mutiara Dhewanty Wulancahyani | A066DSY2741 | Mobile Development
